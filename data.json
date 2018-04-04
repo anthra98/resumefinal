@@ -1,0 +1,44 @@
+{
+ "career":{
+  "info":"To pursue a challenging career."
+},
+"education":[
+{
+  "degree":"SSC",
+  "school":"Keshavareddy Concept School",
+  "data":["2005","90%"]
+},
+{
+  "degree":"INTERMEDIATE",
+  "school":"RK Junior College",
+  "data":["2007","80%"]
+},
+{
+  "degree":"GRADUATION",
+  "school":"Sree Vidyanikethan Engineering College",
+  "data":["2011","80%"]
+}
+],
+"skills":[
+  {
+    "name":"operating system",
+    "info":["windows","Fedora","ubuntu","redHat"]
+  },
+  {
+    "name":"Languages",
+    "info":["C","C++","Java","Python"]
+  },
+  {
+    "name":"Databases",
+    "info":["Oracle","MySql","cybase"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["Html","CSS","javascript"]
+  },
+  {
+    "name":"Frameworks",
+    "info":["Bootstrap",".net"]
+  }
+]
+}
